@@ -3,7 +3,7 @@
 Soy desarrollador web Frontend con pasión por crear experiencias web atractivas y amigables para los usuarios 💻 . He estado trabajando como desarrollador web en la empresa Applica Solutions durante el último año. En mi rol actual, soy responsable de diseñar e implementar la interfaz de usuario para aplicaciones web utilizando HTML, SCSS, JavaScript, Typescript y Angular 🛠⚙ . Siempre estoy buscando nuevos desafíos y oportunidades para crecer y aprender como desarrollador 📈🤓 . En mi tiempo libre, me gusta estar al día con los últimos avances en la industria tecnológica y experimentar con nuevas tecnologías 🛴 . Conéctate conmigo en LinkedIn para conocer más sobre mi experiencia e intereses 
  😉 .
 
-Mis áreas de especialización son:
+<h2> Mis áreas de especialización son: </h2>
 
 #HTML #CSS #SCC #Bootstrap #Angular Material
 #JavaScript #Typescript #Java
@@ -34,17 +34,6 @@ Mis áreas de especialización son:
 
 ###
 
-###
-
-
-
-Puedes encontrarme en: https://linktr.ee/matiasbalestra
-
-
-
-
-
-###
 
 <h2> Mi github laboral:</h2>
 <a href="https://github.com/mbalestradev" target="_blank">
@@ -52,6 +41,10 @@ Puedes encontrarme en: https://linktr.ee/matiasbalestra
 </a>
 
 
+###
+<h2>Podes encontrarme en: https://linktr.ee/matiasbalestra</h2>
+
+###
 ###
 
 <div align="center">
@@ -64,7 +57,9 @@ Puedes encontrarme en: https://linktr.ee/matiasbalestra
 <div align="center" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
+
 </a>
+
 
 <!--
 **MatiasBalestra/MatiasBalestra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
