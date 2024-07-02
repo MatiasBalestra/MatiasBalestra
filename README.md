@@ -56,6 +56,12 @@ Mi github laboral: https://github.com/mbalestradev
 
 ###
 
+<a href="https://www.linkedin.com/in/matias-balestra" target="_blank">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</div>
+</a>
+
 <!--
 **MatiasBalestra/MatiasBalestra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
