@@ -40,13 +40,17 @@ Mis áreas de especialización son:
 
 Puedes encontrarme en: https://linktr.ee/matiasbalestra
 
-Mi github laboral: https://github.com/mbalestradev
+
 
 
 
 ###
 
-<img src="https://raw.githubusercontent.com/mbalestradev/output/snake.svg" alt="Snake animation" />
+<h2> Mi github laboral:</h2>
+<a href="https://github.com/mbalestradev" target="_blank">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</a>
+
 
 ###
 
@@ -57,7 +61,7 @@ Mi github laboral: https://github.com/mbalestradev
 ###
 
 <a href="https://www.linkedin.com/in/matias-balestra" target="_blank">
-<div align="center">
+<div align="center" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </div>
 </a>
