@@ -46,7 +46,7 @@ Mi github laboral: https://github.com/mbalestradev
 
 ###
 
-<img src="https://raw.githubusercontent.com/mbalestradev/mbalestradev/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mbalestradev/output/snake.svg" alt="Snake animation" />
 
 ###
 
